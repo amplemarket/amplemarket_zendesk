@@ -9,11 +9,19 @@
   "private": false,
   "location": {
     "sell": {
-      "signed": true,
-      "lead_card": "https://amplemarket.com/zendesk_sell/lead_card",
-      "person_card": "https://amplemarket.com/zendesk_sell/person_card",
-      "size": {
-        "height": "600px"
+      "lead_card": {
+        "url": "https://amplemarket.com/zendesk_sell/lead_card",
+        "signed": true,
+        "size": {
+          "height": "600px"
+        }
+      },
+      "person_card": {
+        "url": "https://amplemarket.com/zendesk_sell/person_card",
+        "signed": true,
+        "size": {
+          "height": "600px"
+        }
       }
     }
   },

@@ -3,6 +3,6 @@
     "name": "Amplemarket",
     "short_description": "Next gen sales enablement directly from Zendesk Sell",
     "long_description": "Next gen sales enablement directly from Zendesk Sell  \n\nAmplemarket helps you find and get in touch with your next customers in the most efficient and personalized way possible.  \n\n- **Lead Generation**: Find the right prospects based on buying intent and filters like job title, industry, location, technologies used and many more.  \n- **Customized Outreach**: Set up extremely personalized sales cadences that will automatically engage and follow up with your leads on multiple channels.  \n- **Smart Actions**: Streamline sales workflows so you can focus on selling. Amplemarket will make sure no lead is left behind and no information gets lost.  \n\nAmplemarket seamlessly integrates with your email inbox and Zendesk Sell allowing you to do things like trigger email cadences directly from a contact page on Zendesk Sell.",
-    "installation_instructions": "### How to install  \n* Create an account at https://amplemarket.com \n* Click the “Install” button.  \n* Navigate to the “Layouts” settings page to enable your app widget in desirable locations (available in leads and contacts).",
+    "installation_instructions": "### How to install  \n* Create an account at https://amplemarket.com \n* Click the “Install” button.  \n* Navigate to the “Layouts” settings page to enable your app widget in desirable locations (available in leads and contacts)."
   }
 }
