@@ -10,14 +10,14 @@
   "location": {
     "sell": {
       "lead_card": {
-        "url": "https://amplemarket.com/zendesk_sell/lead_card",
+        "url": "https://app.amplemarket.com/zendesk_sell/lead_card",
         "signed": false,
         "size": {
           "height": "600px"
         }
       },
       "person_card": {
-        "url": "https://amplemarket.com/zendesk_sell/person_card",
+        "url": "https://app.amplemarket.com/zendesk_sell/person_card",
         "signed": false,
         "size": {
           "height": "600px"
